@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceInvaders", "SpaceInvaders\SpaceInvaders\SpaceInvaders.csproj", "{6D61145C-40A8-4FAC-A225-F4507E681584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceInvadersContent", "SpaceInvaders\SpaceInvadersContent\SpaceInvadersContent.contentproj", "{26EFAF36-F3DB-4ECB-81E9-0B485A27CD70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "SpaceInvaders\Infrustructure\Infrastructure.csproj", "{2D05000F-25EC-4C2F-B56A-E6A92AC590FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfrastructureContent (Content)", "SpaceInvaders\InfrustructureContent\InfrastructureContent (Content).contentproj", "{4C634FC8-97EE-472C-BA7B-55C6DADD8E66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D61145C-40A8-4FAC-A225-F4507E681584}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6D61145C-40A8-4FAC-A225-F4507E681584}.Debug|x86.ActiveCfg = Debug|x86
+		{6D61145C-40A8-4FAC-A225-F4507E681584}.Debug|x86.Build.0 = Debug|x86
+		{6D61145C-40A8-4FAC-A225-F4507E681584}.Release|Any CPU.ActiveCfg = Release|x86
+		{6D61145C-40A8-4FAC-A225-F4507E681584}.Release|x86.ActiveCfg = Release|x86
+		{6D61145C-40A8-4FAC-A225-F4507E681584}.Release|x86.Build.0 = Release|x86
+		{26EFAF36-F3DB-4ECB-81E9-0B485A27CD70}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{26EFAF36-F3DB-4ECB-81E9-0B485A27CD70}.Debug|x86.ActiveCfg = Debug|x86
+		{26EFAF36-F3DB-4ECB-81E9-0B485A27CD70}.Release|Any CPU.ActiveCfg = Release|x86
+		{26EFAF36-F3DB-4ECB-81E9-0B485A27CD70}.Release|x86.ActiveCfg = Release|x86
+		{2D05000F-25EC-4C2F-B56A-E6A92AC590FF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2D05000F-25EC-4C2F-B56A-E6A92AC590FF}.Debug|x86.ActiveCfg = Debug|x86
+		{2D05000F-25EC-4C2F-B56A-E6A92AC590FF}.Debug|x86.Build.0 = Debug|x86
+		{2D05000F-25EC-4C2F-B56A-E6A92AC590FF}.Release|Any CPU.ActiveCfg = Release|x86
+		{2D05000F-25EC-4C2F-B56A-E6A92AC590FF}.Release|x86.ActiveCfg = Release|x86
+		{2D05000F-25EC-4C2F-B56A-E6A92AC590FF}.Release|x86.Build.0 = Release|x86
+		{4C634FC8-97EE-472C-BA7B-55C6DADD8E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C634FC8-97EE-472C-BA7B-55C6DADD8E66}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4C634FC8-97EE-472C-BA7B-55C6DADD8E66}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C634FC8-97EE-472C-BA7B-55C6DADD8E66}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
